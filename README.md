@@ -12,8 +12,8 @@ descargar de su página oficial._
 
 ## Instalación y ejecución 🔧
 
-_Para ejecutar el proyecto, lo primero que tenemos que hacer es lanzar el archivo docker-compose para montar
-en Docker dos contenedores, uno para la base de datos mongodb y otro para la interfaz
+_Para ejecutar el proyecto, lo primero que tenemos que es ubicarnos en la carpeta raíz del proyecto y lanzar el archivo docker-compose. 
+Este comando montará para montar dos contenedores, uno para la base de datos mongodb y otro para la interfaz
 gráfica de la base de datos utilizando mongo-express._
 
 _El comando sería el siguiente:_
@@ -53,4 +53,4 @@ nuestra API REST mediante la herramienta de SpringBoot Test._
 
 ## Autores ✒️
 
-* **Andrés Miras Gonzalez** - [amiras1](https://gitlab.com/amiras1)
+* **Andrés Miras Gonzalez** - Gitlab: [amiras1](https://gitlab.com/amiras1) | Github: [amg813](https://github.com/amg813)
