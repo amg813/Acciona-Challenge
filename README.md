@@ -67,4 +67,4 @@ nuestra API REST mediante la herramienta de SpringBoot Test.
 
 ## Autores ✒️
 
-* **Andrés Miras Gonzalez** - Gitlab: [amiras1](https://gitlab.com/amiras1) | Github: [amg813](https://github.com/amg813)
+* **Andrés Miras Gonzalez** - Gitlab: [amiras1](https://gitlab.com/amiras1) | Github: [amg813](https://github.com/amg813) --> Contacto: amiras@hiberus.com
